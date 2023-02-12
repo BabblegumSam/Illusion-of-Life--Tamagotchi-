@@ -1,0 +1,1 @@
+This project is adapted from a previous sketch I coded back in 2020 (https://openprocessing.org/sketch/1316151). I have tried my best to convert the inbuilt p5js CSS styling functions to proper CSS. However I had trouble ordering the GUI in a flexbox div for web-responsiveness. After submission I will attempt to remedy this issue.
